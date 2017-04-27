@@ -1,6 +1,6 @@
 {
-	"name": "silverstripe/embargoexpiry",
-	"description": "Adds embargo period and expiry dates to content items. Ripped from advancedworkflow module",
+	"name": "nzstephenf/embargoexpiry",
+	"description": "This module is ripped from silverstripe/embargoexpiry.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "embargo", "expiry"],
 	"license": "BSD-3-Clause",
